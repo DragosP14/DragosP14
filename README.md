@@ -1,10 +1,12 @@
 - 👋 Hi, I’m @DragosP14
 
-- 👀 About me: I am a results-oriented, organized and motivated professional with over 5 years of experience in the field of public finance and I want to capitalize on my passion for programming in a reputable or developing company, implementing the latest technologies in the field. I want to use the knowledge gained from the professional reconversion program in IT but also those in public administration and finance, in order to develop the company by delivering the best services and products to customers.
+- 👀 About me: Experienced data analyst & reporting specialist with expertise in analysis, visualisation, reporting and stakeholder management.
+Passionate about translating complex data into actionable insights, I specialise in using tools such as Tableau, graphs and presentations to facilitate informed decision-making.
+I am looking to use my expertise to improve business processes and drive innovation within a dynamic organisation (public or private) using modern data analysis and reporting technologies.
 
-- 🌱 I’m currently learning Java.
+- 🌱 I’m currently learning Python for Data Analysis.
 
-- 📫 How to reach me: https://www.linkedin.com/in/dragospavel/ 
+- 📫 How to reach me: https://www.linkedin.com/in/dragospavel/
 
 
 <!---
