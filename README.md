@@ -1,12 +1,10 @@
 - 👋 Hi, I’m @DragosP14
 
-- 👀 About me: Experienced data analyst & reporting specialist with expertise in analysis, visualisation, reporting and stakeholder management.
-Passionate about translating complex data into actionable insights, I specialise in using tools such as Tableau, graphs and presentations to facilitate informed decision-making.
-I am looking to use my expertise to improve business processes and drive innovation within a dynamic organisation (public or private) using modern data analysis and reporting technologies.
+- 👀 About me: Dedicated professional with a strong background in compliance, reporting, risk management, and stakeholder engagement, seeking to transition into a Data Analyst role. Proficient in data analysis tools such as Excel, IBM Cognos Analytics, SQL, and Python (Pandas, NumPy, Beautiful Soup, Matplotlib). Passionate about interpreting and turning raw data into actionable business insights. Eager to leverage my analytical skills to support data-driven decision making and business process improvement in a dynamic environment.
 
 - 🌱 I’m currently learning Python for Data Analysis.
 
-- 📫 How to reach me: https://www.linkedin.com/in/dragospavel/
+- 📫 How to reach me: https://www.linkedin.com/in/dragospavel
 
 
 <!---
